@@ -1,0 +1,9 @@
+.border{
+    border: 1.2px solid transparent;
+    cursor: pointer;
+    border-radius: 3px;
+    transform: all 0.2s;
+}
+.border:hover{
+    border-color: white;
+}
